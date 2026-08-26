@@ -141,9 +141,9 @@ body::-webkit-scrollbar-track {
 
 /* 마우스 포인터 */
 * {
-  cursor: url(../ima/cursor.png) 2 2, auto;
+  cursor: url(../img/cursor.png) 2 2, auto;
 }
 
 *:active {
-  cursor: url(../ima/cursor.png)2 2,auto;
+  cursor: url(../img/cursor.png)2 2,auto;
 }
